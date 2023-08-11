@@ -1,2 +1,0 @@
-# .github
-RaceCast's README
